@@ -71,6 +71,13 @@ hr {
   margin-top: 25px;
 }
 
+#logo {
+  opacity: 0.9;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px;
+}
+
 h1 {
   font-size: 70px;
 }
